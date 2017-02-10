@@ -1,1 +1,2 @@
 Subida de suma pre
+Suma de dos numero cumpliendo los criterios de aceptacion para la rama pro
